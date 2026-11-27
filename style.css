@@ -1,0 +1,18 @@
+body {
+    background: #0a0b17;
+    color: #d1d1ef;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: #98ecff;
+}
+h3 {
+    font-size: 30px;
+    color: #be1f3e;
+}
+.head {
+    background: #300b74;
+    font-weight: bold;
+    color: #f5f6fb;
+}
+
